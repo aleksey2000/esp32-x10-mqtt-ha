@@ -1,7 +1,5 @@
 # X10 to ESP32 MQTT HomeAssistant 
 
-[![Build Status](https://travis-ci.org/aleksey2000/esp32-x10-mqtt-ha.svg?branch=master)](https://travis-ci.org/github/aleksey2000/esp32-x10-mqtt-ha)
-
 Small firmware for esp32. Provides integration between x10 dimmers and Home Assistant using mqtt.
 
 # Setup
