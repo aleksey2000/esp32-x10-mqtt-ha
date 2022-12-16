@@ -32,7 +32,7 @@ Before start, you have to setup at leat following options:
 
 | Parameter | Description |
 | ------ | ------ |
-| IPAddress server(192,168,x,x); | HOME ASSISTANT IP |
+| IPAddress server(192.168.x.x); | HOME ASSISTANT IP |
 | ha_ip | home assistant ip (again, but in char[]) |
 | ha_port | change it if you are not using default (8123) |
 | ha_pwd | long-lived access token for HA access |
